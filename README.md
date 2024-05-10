@@ -1,0 +1,2 @@
+# Text Classification using RNN and Word Embeddings
+ sentiment analysis on Amazon reviews using deep learning models (simpleRNN and LSTM). Preprocess the dataset, split it for training and validation, and build a vocabulary for word embedding. The project includes a real-time prediction feature for user-inputted reviews and provides a report detailing model summaries and best hyperparameters. Ideal for NLP enthusiasts exploring text classification techniques.
